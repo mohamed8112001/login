@@ -131,9 +131,12 @@ h1 {
 
 @media screen and (max-width: 768px) {
     .container {
-        max-width: 100%;
+        max-width: 80%;
     }
-    
+    .form-group
+    {
+        max-width: 80%;
+    }
     h1 {
         font-size: 20px;
     }
